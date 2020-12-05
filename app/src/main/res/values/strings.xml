@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="reminder">Enter your name</string>
+</resources>
